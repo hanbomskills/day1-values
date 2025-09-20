@@ -3,7 +3,6 @@ namespace: skills
 replicaCount: 2
 image:
   repository: 637423279607.dkr.ecr.ap-northeast-2.amazonaws.com/skills-red-repo
-  tag: v1.0.1
 tag: v1.0.1
 service:
   type: ClusterIP
